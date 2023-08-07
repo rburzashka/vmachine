@@ -1,0 +1,122 @@
+#impl-notes,
+.wrapper-readme {
+  padding: 2em;
+  margin: 0em 3em;
+}
+#impl-notes .s_01 {
+  overflow: hidden; 
+  display: inline-block; 
+  margin: 0; 
+  border: 0px solid #000000; 
+  transform: rotate(0.00rad) translateZ(0px); 
+  -webkit-transform: rotate(0.00rad) translateZ(0px); 
+  width: 209.33px; height: 314.67px;
+}
+#impl-notes .s_img {
+  width: 209.33px; height: 314.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);
+}
+#impl-notes h1,
+.wrapper-readme h1 {
+  color: #b80707;
+  margin-left: -3rem;
+}
+#impl-notes h2,
+.wrapper-readme h2 {
+  font-size: 1rem;
+  margin-left: -2rem;
+}
+#impl-notes h1, #impl-notes h2,  #impl-notes h3,
+.wrapper-readme h1, .wrapper-readme h2, .wrapper-readme h3 {
+  font-weight: normal;
+}
+
+
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+  gap: 50px;
+}
+table{
+  font-size: 0.775rem;
+}
+th {
+  text-align: left;
+}
+.btn-section {
+  margin: 3em 0;
+}
+#container-readme {
+  height: 500px;
+  overflow: scroll;
+  animation-duration: 0.3s;
+  animation-name: readme;
+  animation-iteration-count: 1;
+  border: 1px solid #000;
+}
+
+@keyframes readme {
+  from {
+    height: 0px;
+    }
+    
+    to {
+      height: 500px;
+    }
+}
+
+
+#vm-module {
+  max-width: 300px;
+  height: 450px;
+  border: 2px solid #000;
+  padding: 1em;
+  font-size: 0.75em;
+}
+
+#vm-module .back-part{
+  background-color: #999;
+  height: calc(100% - 420px);
+}
+
+#vm-module .front-part,
+#vm-module .front-part>div>div {
+  border: 1px solid #ddd;
+
+}
+#vm-module .front-part {
+  display: flex;
+  background-color: #d3d3d3;
+  height: 420px;
+}
+
+#vm-module .front-part>div {
+  flex-direction: column;
+  display: flex;
+}
+
+#vm-module .front-part>div:first-child {
+  width:60%;
+  background-color: #ebeaea;
+}
+#vm-module .front-part>div:last-child {
+  width:40%;
+  background-color: #ffffff;
+}
+#control-slot {
+  display: flex;
+  padding: 10px 0;
+  flex-direction: column;
+  align-items: center;
+}
+#control-slot>div:first-child {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70px;
+}
+#control-slot>div:last-child {
+  margin-top: 10px;
+}
+
+#display, #money-tray-in {
+  padding: 10px;
+}

@@ -1,0 +1,426 @@
+[
+    {
+      "id": 1,
+      "vmIds": [
+        "vm_002",
+        "vm_003",
+        "vm_004"
+      ],
+      "brand": "Coca-Cola",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda"
+      ],
+      "type": "cold drink",
+      "price": 1.3,
+      "code": "91",
+      "name": "Coca-Cola Classic"
+    },
+    {
+      "id": 2,
+      "vmIds": [
+        "vm_002",
+        "vm_003",
+        "vm_004"
+      ],
+      "brand": "Coca-Cola",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "sugar-free"
+      ],
+      "type": "cold drink",
+      "price": 1.4,
+      "code": "92",
+      "name": "Coca-Cola Zero Sugar"
+    },
+    {
+      "id": 3,
+      "brand": "Coca-Cola",
+      "vmIds": [
+        "vm_002",
+        "vm_003",
+        "vm_004"
+      ],
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "cherry"
+      ],
+      "type": "cold drink",
+      "price": 1.1,
+      "code": "93",
+      "name": "Coca-Cola Cherry"
+    },
+    {
+      "id": 4,
+      "brand": "Coca-Cola",
+      "vmIds": [
+        "vm_002",
+        "vm_003",
+        "vm_004"
+      ],
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "vanilla"
+      ],
+      "type": "cold drink",
+      "price": 1.6,
+      "code": "94",
+      "name": "Coca-Cola Vanilla"
+    },
+    {
+      "id": 5,
+      "brand": "Coca-Cola",
+      "vmIds": [
+        "vm_002",
+        "vm_003",
+        "vm_004"
+      ],
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "energy"
+      ],
+      "type": "cold drink",
+      "price": 1.7,
+      "code": "95",
+      "name": "Coca-Cola Energy"
+    },
+    {
+      "id": 6,
+      "brand": "Coca-Cola",
+      "vmIds": [
+        "vm_002",
+        "vm_003",
+        "vm_004"
+      ],
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "low-calorie"
+      ],
+      "type": "cold drink",
+      "price": 1.8,
+      "code": "96",
+      "name": "Coca-Cola Life"
+    },
+    {
+      "id": 7,
+      "brand": "Coca-Cola",
+      "vmIds": [
+        "vm_002",
+        "vm_003",
+        "vm_004"
+      ],
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "caffeine-free"
+      ],
+      "type": "cold drink",
+      "price": 1.9,
+      "code": "97",
+      "name": "Coca-Cola Caffeine Free"
+    },
+    {
+      "id": 8,
+      "vmIds": [
+        "vm_003",
+        "vm_002",
+        "vm_005"
+      ],
+      "brand": "Fanta",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "orange"
+      ],
+      "type": "cold drink",
+      "price": 0.9,
+      "code": "11",
+      "name": "Fanta Orange"
+    },
+    {
+      "id": 9,
+      "vmIds": [
+        "vm_003",
+        "vm_002",
+        "vm_005"
+      ],
+      "brand": "Fanta",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "grape"
+      ],
+      "type": "cold drink",
+      "price": 0.9,
+      "code": "12",
+      "name": "Fanta Grape"
+    },
+    {
+      "id": 10,
+      "vmIds": [
+        "vm_003",
+        "vm_002",
+        "vm_005"
+      ],
+      "brand": "Fanta",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "lemon"
+      ],
+      "type": "cold drink",
+      "price": 1,
+      "code": "13",
+      "name": "Fanta Lemon"
+    },
+    {
+      "id": 11,
+      "vmIds": [
+        "vm_003",
+        "vm_002",
+        "vm_005"
+      ],
+      "brand": "Fanta",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "strawberry"
+      ],
+      "type": "cold drink",
+      "price": 0.5,
+      "code": "98",
+      "name": "Fanta Strawberry"
+    },
+    {
+      "id": 12,
+      "vmIds": [
+        "vm_003",
+        "vm_002",
+        "vm_005"
+      ],
+      "brand": "Fanta",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "pineapple"
+      ],
+      "type": "cold drink",
+      "price": 0.7,
+      "code": "99",
+      "name": "Fanta Pineapple"
+    },
+    {
+      "id": 13,
+      "vmIds": [
+        "vm_003",
+        "vm_002",
+        "vm_005"
+      ],
+      "brand": "Fanta",
+      "tag": [
+        "drink",
+        "soft drink",
+        "soda",
+        "sugar-free"
+      ],
+      "type": "cold drink",
+      "price": 0.1,
+      "code": "10",
+      "name": "Fanta Zero"
+    },
+    {
+      "id": "222",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Doritos",
+      "tag": [
+        "snacks",
+        "chips",
+        "tortilla chips"
+      ],
+      "type": "combo",
+      "price": 2.2,
+      "code": "14",
+      "name": "Doritos Cool Ranch Flavored Tortilla Chips"
+    },
+    {
+      "id": "223",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Oreos",
+      "tag": [
+        "snacks",
+        "cookies",
+        "sandwich cookies"
+      ],
+      "type": "combo",
+      "price": 2.1,
+      "code": "15",
+      "name": "Oreos sandwich cookies"
+    },
+    {
+      "id": "224",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Pringles",
+      "tag": [
+        "snacks",
+        "chips",
+        "snack stack"
+      ],
+      "type": "combo",
+      "price": 2.3,
+      "code": "16",
+      "name": "Pringles Original Flavored Snack Stack"
+    },
+    {
+      "id": "225",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Reese’s",
+      "tag": [
+        "snacks",
+        "candy",
+        "chocolate",
+        "peanut butter"
+      ],
+      "type": "combo",
+      "price": 2.4,
+      "code": "17",
+      "name": "Reese’s Peanut Butter Cups"
+    },
+    {
+      "id": "227",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Cheetos",
+      "tag": [
+        "snacks",
+        "cheese puffs",
+        "crunchy",
+        "flamin hot"
+      ],
+      "type": "combo",
+      "price": 2.5,
+      "code": "18",
+      "name": "Cheetos Flamin Hot Crunchy Cheese Flavored Snacks"
+    },
+    {
+      "id": "228",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Lays",
+      "tag": [
+        "snacks",
+        "chips",
+        "potato chips",
+        "barbecue"
+      ],
+      "type": "combo",
+      "price": 2.6,
+      "code": "19",
+      "name": "Lays Barbecue Flavored Potato Chips"
+    },
+    {
+      "id": "229",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Kit Kat",
+      "tag": [
+        "snacks",
+        "candy",
+        "chocolate",
+        "wafer"
+      ],
+      "type": "combo",
+      "price": 2.7,
+      "code": "20",
+      "name": "Kit Kat Milk Chocolate Wafer Bars"
+    },
+    {
+      "id": "2211",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "M&Ms",
+      "tag": [
+        "snacks",
+        "candy",
+        "chocolate",
+        "peanuts"
+      ],
+      "type": "combo",
+      "price": 0,
+      "code": "21",
+      "name": "M&Ms Peanut Chocolate Candy"
+    },
+    {
+      "id": "2213",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Snickers",
+      "tag": [
+        "snacks",
+        "candy",
+        "chocolate",
+        "nougat",
+        "caramel",
+        "peanuts"
+      ],
+      "type": "combo",
+      "price": 2.8,
+      "code": "22",
+      "name": "Snickers Chocolate Bar"
+    },
+    {
+      "id": "2215",
+      "vmIds": [
+        "vm_006",
+        "vm_003"
+      ],
+      "brand": "Nabisco Ritz Crackers",
+      "tag": [
+        "snacks",
+        "crackers",
+        "buttery"
+      ],
+      "type": "combo",
+      "price": 2.9,
+      "code": "23",
+      "name": "Nabisco Ritz Crackers Original"
+    }
+  ]
